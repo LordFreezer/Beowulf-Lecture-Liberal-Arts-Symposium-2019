@@ -1,6 +1,7 @@
-## What is Babel?
+## Time to butcher some Anglo Saxon(s)
 
-* Like Webpack, Babel transpiles your Javascript code!
-* It transforms higher level Javascript code into Javascript that the browser can understand.
-* This is extremely useful for the various flavors of Javascript that are out there.
-* Even with vanilla Javascript sometimes needs a little bit of help for older web browsers.
+* 2824              | Bona swylce læg,
+* egeslic eorðdraca | ealdre bereafod,
+* bealwe gebæded.   | Beahhordum leng
+* wyrm wohbogen     | wealdan ne moste,
+* ac hine irenna    | ecga fornamon,
